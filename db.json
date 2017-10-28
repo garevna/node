@@ -1,14 +1,14 @@
 [
   {
-    userId:"garevna",
-    title:"Relax",
-    picture:"http://cornucopia3d.e-oncontent.com/storeItems/Training/Green_mountains__tutorial_Training_121_0_img.jpg",
-    text:"Beautifull nature"
+    "userId":"garevna",
+    "title":"Relax",
+    "picture":"http://cornucopia3d.e-oncontent.com/storeItems/Training/Green_mountains__tutorial_Training_121_0_img.jpg",
+    "text":"Beautifull nature"
   },
   {
-    userId:"garevna",
-    title:"Vue",
-    picture:"https://vuejs.org/images/logo.png",
-    text:"Let's study Vue.js"
+    "userId":"garevna",
+    "title":"Vue",
+    "picture":"https://vuejs.org/images/logo.png",
+    "text":"Let's study Vue.js"
   }
 ]
